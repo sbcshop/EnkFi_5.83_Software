@@ -41,7 +41,7 @@ This GitHub provides getting started instructions to use EnkFi 5.83" E-Paper.
   - **PPI** : 138.32
   - **Color** : Red, Black and White
   - **Interface** : SPI
-  - **Driver** : UC8197
+  - **Driver** : UC8179
 
 
 ## Getting Started with EnkFi 5.83" Board
@@ -54,7 +54,7 @@ This GitHub provides getting started instructions to use EnkFi 5.83" E-Paper.
 |(2) Charging Status    | (8) GPIOs Breakout              | (14) Reset Button |
 |(3) Battery Connector  | (9) TF card slot                | (15) Programmable Buttons |
 |(4) E-paper connector  | (10) Native USB (USB_D+/USB_D-) | (16) Programmable Buttons  |
-|(5) DS3231 RTC         | (11) Serial USB                 | (17) 7.5” E-Paper Display |
+|(5) DS3231 RTC         | (11) Serial USB                 | (17) 5.83” E-Paper Display |
 |(6) Coin Cell Holder   | (12) ESP32 S3 WROOM-1           | |
   
 ### Interfacing Details
@@ -175,9 +175,9 @@ This GitHub provides getting started instructions to use EnkFi 5.83" E-Paper.
    Now you are ready to try out your own codes, **_Happy Coding!_**
 
 ## Resources
-  * [Schematic]()
-  * [Hardware Files]()
-  * [Step File]()
+  * [Schematic](https://github.com/sbcshop/EnkFi_5.83_Hardware/blob/main/Design%20Data/Enkfi_5_83_SCH%20PDF.pdf)
+  * [Hardware Files](https://github.com/sbcshop/EnkFi_5.83_Hardware)
+  * [Step File](https://github.com/sbcshop/EnkFi_5.83_Hardware/blob/main/Mechanical%20Data/Enkfi_5_83.STEP)
   * [Getting Started with ESP32 in Arduino](https://docs.espressif.com/projects/arduino-esp32/en/latest/)
   * [ESP32 S3 Hardware Reference](https://docs.espressif.com/projects/esp-idf/en/latest/esp32s3/hw-reference/index.html)
   * [ESP32 S3 Datasheet](https://github.com/sbcshop/3.2_Touchsy_ESP-32_Capacitive_Software/blob/main/documents/esp32-s3-wroom-1_wroom-1u_datasheet_en.pdf)
