@@ -46,17 +46,34 @@ This GitHub provides getting started instructions to use EnkFi 5.83" E-Paper.
 
 ## Getting Started with EnkFi 5.83" Board
 ### Pinout
-<img src= "" />
+<img src= "https://github.com/sbcshop/EnkFi_5.83_Software/blob/main/images/EnkFi%205_83%20pinout.png" />
 
 | | | |
 |--|--|--|
-|(1) Power LED          | (7) Buzzer                      | (13) Boot Button |
-|(2) Charging Status    | (8) GPIOs Breakout              | (14) Reset Button |
-|(3) Battery Connector  | (9) TF card slot                | (15) Programmable Buttons |
-|(4) E-paper connector  | (10) Native USB (USB_D+/USB_D-) | (16) Programmable Buttons  |
-|(5) DS3231 RTC         | (11) Serial USB                 | (17) 5.83” E-Paper Display |
-|(6) Coin Cell Holder   | (12) ESP32 S3 WROOM-1           | |
-  
+|(1) Coin Cell Holder            | (7) ESP32 S3 WROOM-1            | (13) Boot Button           |
+|(2) DS3231 RTC                  | (8) Buzzer                      | (14) Reset Button          |
+|(3) GPIOs Breakout              | (9) Power LED                   | (15) Programmable Buttons  |
+|(4) TF card slot                | (10) Charging Status            | (16) 5.83” E-Paper Display |
+|(5) Serial USB                  | (11) Battery Connector          | (17) Programmable Buttons  |
+|(6) Native USB (USB_D+/USB_D-)  | (12) E-paper connector          | |
+
+- (1) Coin Cell Holder
+- (2) DS3231 RTC
+- (3) GPIOs Breakout
+- (4) TF card slot
+- (5) Serial USB 
+- (6) Native USB (USB_D+/USB_D-)
+- (7) ESP32 S3 WROOM-1
+- (8) Buzzer 
+- (9) Power LED
+- (10) Charging Status
+- (11) Battery Connector
+- (12) E-paper connector 
+- (13) Boot Button
+- (14) Reset Button
+- (15) & (17) Programmable Buttons
+- (16) E-paper 
+
 ### Interfacing Details
   
 - **_E-Paper Display interfacing with ESP32_**
