@@ -88,7 +88,7 @@ This GitHub provides getting started instructions to use EnkFi 5.83" E-Paper.
   |IO4 | BT1 | Programmable Button |
   |IO5 | BT2 | Programmable Button |
   |IO6 | BT3 | Programmable Button |
-  |IO7 | BT3 | Programmable Button |
+  |IO7 | BT4 | Programmable Button |
 
 - **_DS3231 RTC interfacing with ESP32 using I2C_** 
 
