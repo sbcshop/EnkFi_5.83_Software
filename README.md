@@ -170,7 +170,7 @@ This GitHub provides getting started instructions to use EnkFi 5.83" E-Paper.
    - [Example 1](https://github.com/sbcshop/EnkFi_5.83_Software/tree/main/examples/Demo_Buzzer_Button) : Onboard Button and Buzzer Testing 
    - [Example 2](https://github.com/sbcshop/EnkFi_5.83_Software/tree/main/examples/Demo_GraphicsDisplay) : Create Graphics like line, circle, etc. on EnkFi E-Paper display
    - [Example 3](https://github.com/sbcshop/EnkFi_5.83_Software/tree/main/examples/Demo_ImageDisplay) : Image display demo, follow instructions [here](https://github.com/sbcshop/EnkFi_7.5_Software/blob/main/documents/Image%20to%20Arduino%20Byte%20Conversion.pdf) to create your own array image to use with code.   
-   - and [Many more...](https://github.com/sbcshop/EnkFi_7.5_Software/tree/main/examples)
+   - and [Many more...](https://github.com/sbcshop/EnkFi_5.83_Software/tree/main/examples)
 
    Now you are ready to try out your own codes, **_Happy Coding!_**
 
