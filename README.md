@@ -130,7 +130,7 @@ This GitHub provides getting started instructions to use EnkFi 5.83" E-Paper.
    
    - You have two options to program onboard ESP32 of EnkFi board, **_UART USB_** OR **_Native USB_**.
 
-     <img src="https://github.com/sbcshop/EnkFi_7.5_Software/blob/main/images/usb_options.png" width="372" height="214">   
+     <img src="https://github.com/sbcshop/EnkFi_5.83_Software/blob/main/images/usb_options.png" width="296" height="186">   
    
    - When using Native ESP USB, you will have to press BOOT button once and then connect Type C. For UART USB no need, directly connect USB.
    
